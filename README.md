@@ -1,0 +1,4 @@
+使用XML的形式调用API
+BEAN是用UPS提供的XSD生成
+test里面填上access license number，username和password以及真实的单号就可以tracking了
+username和password就是UPS的帐号
